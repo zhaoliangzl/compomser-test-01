@@ -1,0 +1,15 @@
+{
+    "name": "izliang/composer",
+    "authors": [
+        {
+            "name": "izliang",
+            "email": "izliang@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "izliang\\composer\\": "src/"
+        }
+    }
+}
